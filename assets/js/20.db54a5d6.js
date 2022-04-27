@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{715:function(t,e,s){"use strict";s.r(e);var n=s(20),l=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("1。 https://segmentfault.com/a/1190000023960592")])])}),[],!1,null,null,null);e.default=l.exports}}]);
